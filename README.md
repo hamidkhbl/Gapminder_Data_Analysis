@@ -13,7 +13,9 @@ Answer to the second and third questions are visualized by a [Plotly animated sc
 
 #### Packages
 To see the visualizations you may need install these packages:
+
 `conda install -c plotly plotly`
+
 `conda install -c plotly plotly_express`
 
 ##### Note:
