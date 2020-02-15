@@ -8,8 +8,9 @@ In this project I have analyzed five data set(Child mortality, Children per woma
 
 #### Data Visualization
 I have implemented a simple race bar chart to answer the first question.
-
+![Race Bar Chart](https://github.com/hamidkhbl/Gapminder_Data_Analysis/blob/master/RaceBarChart.png)
 Answer to the second and third questions are visualized by a [Plotly animated scatter plots](https://plot.ly/python/animations/).
+![Scatter Plot](https://github.com/hamidkhbl/Gapminder_Data_Analysis/blob/master/ScatterPlot.png)
 
 #### Packages
 To see the visualizations you may need install these packages:
