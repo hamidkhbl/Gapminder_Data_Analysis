@@ -12,7 +12,7 @@ I have implemented a simple race bar chart to answer the first question.
 Answer to the second and third questions are visualized by a [Plotly animated scatter plots](https://plot.ly/python/animations/).
 
 #### Packages
-To see the visualizations you may need install to these packages:
+To see the visualizations you may need install these packages:
 `conda install -c plotly plotly`
 `conda install -c plotly plotly_express`
 
